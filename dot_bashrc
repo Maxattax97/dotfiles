@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# vim ft=bash
+# vim: ft=bash
 
 # Exports
 export EDITOR=/usr/bin/nano # For lightweight purposes.

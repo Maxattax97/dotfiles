@@ -1,5 +1,5 @@
 #!/usr/bin/env zsh
-# vim ft=zsh
+# vim: ft=zsh
 
 config_help=false
 config_benchmark=false
